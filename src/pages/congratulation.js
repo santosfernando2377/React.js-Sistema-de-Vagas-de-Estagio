@@ -23,7 +23,7 @@ function App() {
               <Sucesscenter>
                 <img src={Confirmed} alt="Grau Logo" height="200px" width="200px" />
               </Sucesscenter>
-              <Title>A Vaga foi Cadastrada com Sucesso.</Title>
+              <Title>Vaga foi Cadastrada com Sucesso.</Title>
               <Sucesscenter>
                 <Link to="/"><Button>Voltar a Tela de Cadastro</Button></Link>  
               </Sucesscenter>
